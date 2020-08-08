@@ -32,4 +32,5 @@ yarn start
 # setup do ambiente
 npm install -g create-react-app
 npm install -g yarn
+create-react-app ead_js_devmedia_criando-componentes-react
 ```
