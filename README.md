@@ -2,6 +2,16 @@
 
 Projeto [desse](https://www.devmedia.com.br/curso/react-criando-meus-primeiros-componentes/2365) curso
 
+```
+Objetivos:
+
+- [x] Criar componentes
+- [x] Exportar componentes
+- [x] Importar componentes
+- [x] Estilizar componentes
+- [x] Organizar componentes
+```
+
 ## Setup
 
 ```sh
